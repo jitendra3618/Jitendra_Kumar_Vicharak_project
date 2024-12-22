@@ -43,7 +43,17 @@ a compiler that translates SimpleLang code into assembly code for the 8-bit CPU
 
 
 ## Compilation and Usage
-SimpleLang/ ├── src/ # Source code directory │ ├── lexer/ # Lexer module │ │ ├── lexer.cpp # Lexer implementation │ │ └── lexer.h # Lexer header │ ├── parser/ # Parser module │ │ ├── parser.cpp # Parser implementation │ │ └── parser.h # Parser header │ ├── codegen/ # Code generation module │ │ ├── codegen.cpp # Code generation implementation │ │ └── codegen.h # Code generation h
+```plaintext
+```plaintext
+Jitendra_Project_in_C++/
+├── lexer.cpp               
+├── parser.cpp              
+├── code_generator.cpp             
+├── lexer.h                   
+├── parser.h                
+├── main.cpp
+├── input.txt
+├── code_generator.cpp
 # Prerequisites
 A C++ compiler (e.g., g++)
 A text editor or IDE for editing the source code
@@ -54,13 +64,12 @@ To compile the project, navigate to the project directory in your command prompt
 
 Running the Program
 After successful compilation, you can run the program using:
-``main``
+``jitendra``
 
 # Input File
-The program reads from a sample input file named input.txt. You can modify this file to test different inputs.
+The program reads from a sample input file named input.txt. 
 
-# Contributing
-Contributions are welcome! If you have suggestions for improvements, bug fixes, or additional features, feel free to open issues or submit pull requests.
+
 
 # Submitted to
   Vicharak
