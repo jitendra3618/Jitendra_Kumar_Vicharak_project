@@ -64,15 +64,17 @@ To compile the project, navigate to the project directory in your command prompt
 
 Running the Program
 After successful compilation, you can run the program using:
-```jitendra```
+```  jitendra  ```
 
 # Input File
 The program reads from a sample input file named input.txt. 
-
-
-
 # Submitted to
   Vicharak
 
 # Acknowledgments
 This project is inspired by the principles of compiler design and implementation.
+
+## License
+
+This project is licensed under the MIT License. 
+
