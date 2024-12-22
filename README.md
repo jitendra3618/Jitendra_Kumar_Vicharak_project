@@ -52,8 +52,8 @@ Jitendra_Project_in_C++/
 ├── parser.h                
 ├── main.cpp
 ├── input.txt
-├── code_generator.cpp ```
-
+├── code_generator.cpp 
+```
 # Prerequisites
 A C++ compiler (e.g., g++)
 A text editor or IDE for editing the source code
@@ -64,7 +64,7 @@ To compile the project, navigate to the project directory in your command prompt
 
 Running the Program
 After successful compilation, you can run the program using:
-``jitendra``
+```jitendra```
 
 # Input File
 The program reads from a sample input file named input.txt. 
