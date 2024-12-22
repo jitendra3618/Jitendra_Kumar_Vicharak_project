@@ -43,8 +43,7 @@ a compiler that translates SimpleLang code into assembly code for the 8-bit CPU
 
 
 ## Compilation and Usage
-├── lexer/ │ │ ├── lexer.cpp │ │ └── lexer.h │ ├── parser/ │ │ ├── parser.cpp │ │ └── parser.h │ ├── codegen/ │ │ ├── codegen.cpp │ │ └── codegen.h │ └── main.cpp ├── include/ │ ├── ast.h │ ├── tokens.h │ └── types.h ├── tests/ │ ├── lexer_tests.cpp │ ├── parser_tests.cpp │ 
-
+SimpleLang/ ├── src/ # Source code directory │ ├── lexer/ # Lexer module │ │ ├── lexer.cpp # Lexer implementation │ │ └── lexer.h # Lexer header │ ├── parser/ # Parser module │ │ ├── parser.cpp # Parser implementation │ │ └── parser.h # Parser header │ ├── codegen/ # Code generation module │ │ ├── codegen.cpp # Code generation implementation │ │ └── codegen.h # Code generation h
 # Prerequisites
 A C++ compiler (e.g., g++)
 A text editor or IDE for editing the source code
