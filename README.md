@@ -68,6 +68,21 @@ After successful compilation, you can run the program using:
 
 # Input File
 The program reads from a sample input file named input.txt. 
+```int a;
+int b; 
+
+
+a = 10; 
+b = 10; 
+
+
+if (a==b) {
+    a=a+1;
+}
+```
+#output image
+![Screenshot (137)](https://github.com/user-attachments/assets/835cf79d-a931-4899-a97f-6585341dd1ad)
+
 # Submitted to
   Vicharak
 
