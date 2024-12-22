@@ -1,4 +1,4 @@
-# a compiler that translates SimpleLang code into assembly code for the 8-bit CPU in C++
+# A compiler that translates SimpleLang code into assembly code for the 8-bit CPU in C++
 ## OWNER
    JITENDRA KUMAR
 ## Overview
@@ -43,8 +43,7 @@ a compiler that translates SimpleLang code into assembly code for the 8-bit CPU
 
 
 ## Compilation and Usage
-```plaintext
-```plaintext
+```
 Jitendra_Project_in_C++/
 ├── lexer.cpp               
 ├── parser.cpp              
@@ -53,14 +52,15 @@ Jitendra_Project_in_C++/
 ├── parser.h                
 ├── main.cpp
 ├── input.txt
-├── code_generator.cpp
+├── code_generator.cpp ```
+
 # Prerequisites
 A C++ compiler (e.g., g++)
 A text editor or IDE for editing the source code
 Compilation
 To compile the project, navigate to the project directory in your command prompt or terminal and run the following command:
 
-``g++ -o jitendra main.cpp lexer.cpp parser.cpp code_generator.cpp``
+```g++ -o jitendra main.cpp lexer.cpp parser.cpp code_generator.cpp```
 
 Running the Program
 After successful compilation, you can run the program using:
